@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @M-Obom
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in building and collaborating on projects
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: via e-mail @ markobom83@gmail.com
 
 <!---
